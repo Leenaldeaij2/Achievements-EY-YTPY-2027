@@ -12,7 +12,7 @@ assessments, HR interviews, and a case study discussion.
 </p>
 
 <p align="center">
-  <img src="Achievements/EY-YTPY-2027/EY-YTPY-Semi-Finalist.png"
+  <img src="EY.png"
        alt="EY YTPY 2027 Semi-Finalist"
        width="600"/>
 </p>
